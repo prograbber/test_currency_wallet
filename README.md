@@ -1,6 +1,17 @@
 # toonflix
 
-A new Flutter project.
+Flutter
+통화 지갑 샘플
+
+- Custom Card
+  Transform.translate
+
+* offset: Offset(0, order \* -20), // 위치 옮기기
+* clipBehavior: Clip.hardEdge, // 경계선 잘라내기
+
+Transform.scale
+
+- Custom Button
 
 ## Getting Started
 

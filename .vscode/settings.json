@@ -1,0 +1,30 @@
+{
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.wordWrap": "on",
+
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false
+    // "editor.tabSize": 2,
+    // "editor.insertSpaces": true,
+    // "editor.detectIndentation": false,
+    // "editor.suggest.insertMode": "replace",
+    // "editor.defaultFormatter": "Dart-Code.dart-code"
+    // "editor.inlayHints.enabled": "offUnlessPressed"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "dart.previewFlutterUiGuides": true,
+  "dart.openDevTools": "flutter",
+  "dart.debugExternalPackageLibraries": true,
+  "dart.debugSdkLibraries": false,
+  "emmet.excludeLanguages": ["markdown", "jsx"],
+  "window.zoomLevel": 1
+}
